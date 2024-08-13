@@ -16,15 +16,15 @@ item_style = "outline"
 [[sections.items]]
 title = "Kent"
 description = "Full Stack Developer"
-url = "https://google.com/"
+url = "https://kcaparas-portfolio.web.app/"
 [[sections.items]]
 title = "David"
 description = "User Experience Developer"
-url = "https://google.com/"
+url = "https://www.linkedin.com/in/david-goodfellow-2ba0232b5/"
 [[sections.items]]
 title = "Gui"
 description = "Full Stack Developer"
-url = "https://google.com/ "
+url = "https://www.linkedin.com/in/guidamaso/"
 
 [[sections]]
 title = "Our Project"
